@@ -1,5 +1,6 @@
 
 ### Project Documentation
+LIVE Demo link https://andrascsorba.github.io/Day-s-Transition-site/
 
 ## Project Overview
 This project is a web application that uses animations and transitions with the help of GSAP and Barba.js libraries.
