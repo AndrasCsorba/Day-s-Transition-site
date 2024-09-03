@@ -43,13 +43,6 @@ The file shows how to integrate the GSAP and Barba.js libraries:
 
 ## Frequently Asked Questions (FAQ)
 ### How do I install the project?
-Refer to the Installation Guide.
-
-## License and Contribution
-This project is licensed under the [MIT License](LICENSE).
-
-Contribution guidelines: CONTRIBUTING.md
-
----
+Refer to the Installation Gu
 
 This documentation template helps make your project easy to understand and use for others.
