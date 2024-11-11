@@ -6,7 +6,7 @@ let detailScene;
 function animateSlides() {
   //Init Controller
   controller = new ScrollMagic.Controller();
-  //Select some things
+  //Select somethings
   const sliders = document.querySelectorAll(".slide");
   const nav = document.querySelector(".nav-header");
   //Loop over each sllide
